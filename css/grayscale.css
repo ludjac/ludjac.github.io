@@ -87,7 +87,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000;
+    color: #fff;
 }
 
 .navbar-custom .nav li a {
@@ -116,6 +116,7 @@ a:focus {
 
 @media(min-width:767px) {
     .navbar {
+        color: black;
         padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
@@ -123,6 +124,16 @@ a:focus {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .navbar-custom a {
+        color: #000;
+    }
+
+    a:hover,
+    a:focus {
+        text-decoration: none;
+        color: #176e61; 
     }
 
     .top-nav-collapse {
