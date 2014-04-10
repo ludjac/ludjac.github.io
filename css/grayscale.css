@@ -69,6 +69,36 @@ a:focus {
     margin-bottom: 15px;
 }
 
+.project-box h5 {
+    margin: 0px;
+    font-size: 13pt;
+}
+
+.project-header i {
+    font-size: 16pt;
+}
+
+hr.style-two {
+    margin: 0px 0px 5px;
+    color: gray;
+    background-color: black;
+    background: black;
+/*
+    border: 1px black solid;
+
+    border: 0;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+*/
+}
+
+.project-header {
+    margin: 20px 0 0px;
+}
+
 .navbar {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
