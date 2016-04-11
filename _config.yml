@@ -2,7 +2,9 @@
 title: "Ludwig Jacobsson"
 email: ludjac@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  About me, my projects and my interests.
+  About me, my projects and my interests. 
+  
+  Powered by Github Pages and Jekyll. Jekyll template from svmiller.github.io.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.ludwigjacobsson.se" # the base hostname & protocol for your site
 twitter_username: ludjac
