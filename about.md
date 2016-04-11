@@ -12,6 +12,6 @@ I work at a [company](http://www.contextvision.se) in Sweden where I am able and
 
 <!-- My interests in the area is knowledge representation, -->
 
-To stay up to date i frequent sites like [arxiv-sanity](http://www.arxiv-sanity.com/), [r/machinelearning](http://www.reddit.com/r/machinelearning), [Hacker News](https://news.ycombinator.com), [Datatau](http://www.datatau.com).
+To stay up to date i frequent sites like [arxiv-sanity](http://www.arxiv-sanity.com/), [r/machinelearning](http://www.reddit.com/r/machinelearning), [Hacker News](https://news.ycombinator.com), [Datatau](http://www.datatau.com), [r/artificial](https://www.reddit.com/r/artificial).
 
 For a bit more thorough description of my academic and industrial background, checkout my [CV](/resume_eng.pdf).
