@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a farm boy from Sweden with a masters degree in Engineering Physics. My passion is artificial intelligence. This ranges from the mathematics of new and old algorithms and their implementations to the philosophical impact of our new overlords. 
 
-I work at a [company](http://www.contextvision.se) in Sweden where I am able and encouraged to educate myself via coworkers and and other resources in the area of Deep Learning. Meanwhile I am researching, developing and applying deep learning algorithms to problems in general and in particular the medical domain. I am very excited about my job and I am more eager and motivated than ever to expand my knowledge and expertise. 
+I work at a [company](http://www.contextvision.se) in Sweden where I am able and encouraged to educate myself via coworkers and other resources in the area of Deep Learning. Meanwhile I am researching, developing and applying deep learning algorithms to problems in general and in particular the medical domain.
 
 <!-- With a future in Deep Learning, Machine Learning and Artificial Intelligence in general I am always looking for resources to further expand my knowledge. -->
 
